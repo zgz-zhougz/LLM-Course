@@ -1,5 +1,5 @@
 【代码仓库链接】
-[https://github.com/youngcs1024/06-Data-Processing.git](https://github.com/zgz-zhougz/Data-Processing-sz2507093-.git)
+https://github.com/zgz-zhougz/Data-Processing-sz2507093-.git
 这是一个由大模型驱动的QAR（Quick Access Recorder）数据分析代理系统，实现了从CSV输入到分析报告的全流程自动化。
 ## 🏗️ 核心架构
 ### 1. __三层架构设计__
